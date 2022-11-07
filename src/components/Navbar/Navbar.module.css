@@ -1,0 +1,34 @@
+.app__nav {
+  background-color: rgb(60, 204, 103);
+  width: 230px;
+  height: 700px;
+  padding: 15px;
+}
+
+.item a {
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.item .active {
+  color: rgb(25, 0, 255);
+}
+
+.itemF {
+  padding-top: 70px;
+}
+
+.itemF a {
+  color: white;
+  text-decoration: none;
+  font-size: 40px;
+  font-weight: lighter;
+}
+
+.friends__el {
+  display: flex;
+  gap: 10px;
+  padding-top: 10px;
+}
